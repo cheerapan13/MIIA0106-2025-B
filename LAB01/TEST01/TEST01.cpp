@@ -10,7 +10,7 @@ int main()
 
     std::cout << "Name: Sutit Ongart\n";
     std::cout << "Course: MIIA0106\n";
-    std::cout << "Email: sutit.o@maori";
+    std::cout << "Email: sutit.o@maori"; 
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
