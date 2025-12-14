@@ -1,0 +1,3 @@
+﻿  LAB0502.cpp
+D:\6611860013\LAB05\LAB0502\LAB0502.cpp(38,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  LAB0502.vcxproj -> D:\6611860013\LAB05\x64\Debug\LAB0502.exe
