@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mahanakorn\\\u0E1B\u0E35 3 \u0E40\u0E17\u0E2D\u0E21 2\\python and C\\MIIA0106-2025-B\\LAB01\\TEST01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E168F18-1E39-4759-BD07-8FF7BE5CF817}|TEST01.vcxproj|D:\\Mahanakorn\\\u0E1B\u0E35 3 \u0E40\u0E17\u0E2D\u0E21 2\\python and C\\MIIA0106-2025-B\\LAB01\\TEST01\\TEST01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E168F18-1E39-4759-BD07-8FF7BE5CF817}|TEST01.vcxproj|solutionrelative:TEST01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TEST01.cpp",
+              "DocumentMoniker": "D:\\Mahanakorn\\\u0E1B\u0E35 3 \u0E40\u0E17\u0E2D\u0E21 2\\python and C\\MIIA0106-2025-B\\LAB01\\TEST01\\TEST01.cpp",
+              "RelativeDocumentMoniker": "TEST01.cpp",
+              "ToolTip": "D:\\Mahanakorn\\\u0E1B\u0E35 3 \u0E40\u0E17\u0E2D\u0E21 2\\python and C\\MIIA0106-2025-B\\LAB01\\TEST01\\TEST01.cpp",
+              "RelativeToolTip": "TEST01.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-23T10:08:14.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

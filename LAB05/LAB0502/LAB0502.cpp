@@ -1,0 +1,43 @@
+
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+//double maxofThree(int a,int b, int c) {
+//    if (a >= b && a >= c)
+//        return a;
+//    else if (b >= a && b >= c)
+//        return b;
+//    else
+//        return c;
+//}
+
+double minofThree(int a, int b, int c) {
+    if (a <= b && a <= c)
+        return a;
+    else if (b <= a && b <= c)
+        return b;
+    else
+        return c;
+}
+
+
+int main()
+{
+    int a,b,c;
+    int maxValue = -1000000;
+
+    cout << "Enter a integers : ";
+    cin >> a;
+    cout << "Enter b integers : ";
+    cin >> b;
+    cout << "Enter c integers : ";
+    cin >> c;
+
+    maxValue = minofThree(a, b, c);
+
+    cout << "Max of value :" << maxValue << endl;
+
+    return 1;
+}
