@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Mahanakorn_UNIVERSITY\\python \u0026 c\\lab\\MIIA0106-2025-B\\LAB08\\LAB0801\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B62EBCFF-51B2-4F98-972D-C6132EBA7F74}|..\\LAB00806\\LAB00806.vcxproj|F:\\Mahanakorn_UNIVERSITY\\python \u0026 c\\lab\\MIIA0106-2025-B\\LAB08\\LAB00806\\LAB00806.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4FE988D-025C-47BD-9BFB-F3EEECFECCC2}|..\\LAB0805\\LAB0805.vcxproj|F:\\Mahanakorn_UNIVERSITY\\python \u0026 c\\lab\\MIIA0106-2025-B\\LAB08\\LAB0805\\LAB0805.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4057B60-3AA4-4BFD-9073-2B2ADDB6E9DD}|..\\LAB0804\\LAB0804.vcxproj|F:\\Mahanakorn_UNIVERSITY\\python \u0026 c\\lab\\MIIA0106-2025-B\\LAB08\\LAB0804\\LAB0804.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3083A5F-ACC3-4ED7-B07C-7B0C49B56A3C}|..\\LAB0803\\LAB0803.vcxproj|F:\\Mahanakorn_UNIVERSITY\\python \u0026 c\\lab\\MIIA0106-2025-B\\LAB08\\LAB0803\\LAB0803.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CFE3439-14D7-412B-9087-F82F9FA4AE5F}|LAB0801\\LAB0801.vcxproj|F:\\Mahanakorn_UNIVERSITY\\python \u0026 c\\lab\\MIIA0106-2025-B\\LAB08\\LAB0801\\LAB0801\\LAB0801.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1CFE3439-14D7-412B-9087-F82F9FA4AE5F}|LAB0801\\LAB0801.vcxproj|solutionrelative:LAB0801\\LAB0801.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C73C9A-26E8-454E-AC4F-CA6F09548134}|LAB0802\\LAB0802.vcxproj|F:\\Mahanakorn_UNIVERSITY\\python \u0026 c\\lab\\MIIA0106-2025-B\\LAB08\\LAB0801\\LAB0802\\LAB0802.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10C73C9A-26E8-454E-AC4F-CA6F09548134}|LAB0802\\LAB0802.vcxproj|solutionrelative:LAB0802\\LAB0802.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LAB00806.cpp",
+              "DocumentMoniker": "F:\\Mahanakorn_UNIVERSITY\\python \u0026 c\\lab\\MIIA0106-2025-B\\LAB08\\LAB00806\\LAB00806.cpp",
+              "RelativeDocumentMoniker": "..\\LAB00806\\LAB00806.cpp",
+              "ToolTip": "F:\\Mahanakorn_UNIVERSITY\\python \u0026 c\\lab\\MIIA0106-2025-B\\LAB08\\LAB00806\\LAB00806.cpp",
+              "RelativeToolTip": "..\\LAB00806\\LAB00806.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-04T10:11:12.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LAB0805.cpp",
+              "DocumentMoniker": "F:\\Mahanakorn_UNIVERSITY\\python \u0026 c\\lab\\MIIA0106-2025-B\\LAB08\\LAB0805\\LAB0805.cpp",
+              "RelativeDocumentMoniker": "..\\LAB0805\\LAB0805.cpp",
+              "ToolTip": "F:\\Mahanakorn_UNIVERSITY\\python \u0026 c\\lab\\MIIA0106-2025-B\\LAB08\\LAB0805\\LAB0805.cpp",
+              "RelativeToolTip": "..\\LAB0805\\LAB0805.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAwD8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-04T09:58:58.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LAB0804.cpp",
+              "DocumentMoniker": "F:\\Mahanakorn_UNIVERSITY\\python \u0026 c\\lab\\MIIA0106-2025-B\\LAB08\\LAB0804\\LAB0804.cpp",
+              "RelativeDocumentMoniker": "..\\LAB0804\\LAB0804.cpp",
+              "ToolTip": "F:\\Mahanakorn_UNIVERSITY\\python \u0026 c\\lab\\MIIA0106-2025-B\\LAB08\\LAB0804\\LAB0804.cpp",
+              "RelativeToolTip": "..\\LAB0804\\LAB0804.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-04T09:27:28.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LAB0803.cpp",
+              "DocumentMoniker": "F:\\Mahanakorn_UNIVERSITY\\python \u0026 c\\lab\\MIIA0106-2025-B\\LAB08\\LAB0803\\LAB0803.cpp",
+              "RelativeDocumentMoniker": "..\\LAB0803\\LAB0803.cpp",
+              "ToolTip": "F:\\Mahanakorn_UNIVERSITY\\python \u0026 c\\lab\\MIIA0106-2025-B\\LAB08\\LAB0803\\LAB0803.cpp",
+              "RelativeToolTip": "..\\LAB0803\\LAB0803.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-04T09:15:22.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LAB0802.cpp",
+              "DocumentMoniker": "F:\\Mahanakorn_UNIVERSITY\\python \u0026 c\\lab\\MIIA0106-2025-B\\LAB08\\LAB0801\\LAB0802\\LAB0802.cpp",
+              "RelativeDocumentMoniker": "LAB0802\\LAB0802.cpp",
+              "ToolTip": "F:\\Mahanakorn_UNIVERSITY\\python \u0026 c\\lab\\MIIA0106-2025-B\\LAB08\\LAB0801\\LAB0802\\LAB0802.cpp",
+              "RelativeToolTip": "LAB0802\\LAB0802.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-04T08:59:51.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LAB0801.cpp",
+              "DocumentMoniker": "F:\\Mahanakorn_UNIVERSITY\\python \u0026 c\\lab\\MIIA0106-2025-B\\LAB08\\LAB0801\\LAB0801\\LAB0801.cpp",
+              "RelativeDocumentMoniker": "LAB0801\\LAB0801.cpp",
+              "ToolTip": "F:\\Mahanakorn_UNIVERSITY\\python \u0026 c\\lab\\MIIA0106-2025-B\\LAB08\\LAB0801\\LAB0801\\LAB0801.cpp",
+              "RelativeToolTip": "LAB0801\\LAB0801.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-04T08:47:13.636Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
