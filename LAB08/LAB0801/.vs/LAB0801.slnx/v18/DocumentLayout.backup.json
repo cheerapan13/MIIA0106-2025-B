@@ -3,13 +3,16 @@
   "WorkspaceRootPath": "F:\\Mahanakorn_UNIVERSITY\\python \u0026 c\\lab\\MIIA0106-2025-B\\LAB08\\LAB0801\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B62EBCFF-51B2-4F98-972D-C6132EBA7F74}|..\\LAB00806\\LAB00806.vcxproj|F:\\Mahanakorn_UNIVERSITY\\python \u0026 c\\lab\\MIIA0106-2025-B\\LAB08\\LAB00806\\LAB00806.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FC04DC60-196C-4341-8532-DAE122AA7A1F}|..\\LAB0807\\LAB0807.vcxproj|F:\\Mahanakorn_UNIVERSITY\\python \u0026 c\\lab\\MIIA0106-2025-B\\LAB08\\LAB0807\\LAB0807.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4057B60-3AA4-4BFD-9073-2B2ADDB6E9DD}|..\\LAB0804\\LAB0804.vcxproj|F:\\Mahanakorn_UNIVERSITY\\python \u0026 c\\lab\\MIIA0106-2025-B\\LAB08\\LAB0804\\LAB0804.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4FE988D-025C-47BD-9BFB-F3EEECFECCC2}|..\\LAB0805\\LAB0805.vcxproj|F:\\Mahanakorn_UNIVERSITY\\python \u0026 c\\lab\\MIIA0106-2025-B\\LAB08\\LAB0805\\LAB0805.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4057B60-3AA4-4BFD-9073-2B2ADDB6E9DD}|..\\LAB0804\\LAB0804.vcxproj|F:\\Mahanakorn_UNIVERSITY\\python \u0026 c\\lab\\MIIA0106-2025-B\\LAB08\\LAB0804\\LAB0804.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Mahanakorn_UNIVERSITY\\python \u0026 c\\lab\\MIIA0106-2025-B\\LAB08\\LAB00806\\LAB00806.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B3083A5F-ACC3-4ED7-B07C-7B0C49B56A3C}|..\\LAB0803\\LAB0803.vcxproj|F:\\Mahanakorn_UNIVERSITY\\python \u0026 c\\lab\\MIIA0106-2025-B\\LAB08\\LAB0803\\LAB0803.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -19,8 +22,8 @@
       "RelativeMoniker": "D:0:0:{1CFE3439-14D7-412B-9087-F82F9FA4AE5F}|LAB0801\\LAB0801.vcxproj|solutionrelative:LAB0801\\LAB0801.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10C73C9A-26E8-454E-AC4F-CA6F09548134}|LAB0802\\LAB0802.vcxproj|F:\\Mahanakorn_UNIVERSITY\\python \u0026 c\\lab\\MIIA0106-2025-B\\LAB08\\LAB0801\\LAB0802\\LAB0802.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{10C73C9A-26E8-454E-AC4F-CA6F09548134}|LAB0802\\LAB0802.vcxproj|solutionrelative:LAB0802\\LAB0802.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Mahanakorn_UNIVERSITY\\python \u0026 c\\lab\\MIIA0106-2025-B\\LAB08\\LAB0801\\LAB0802\\LAB0802.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LAB0802\\LAB0802.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,37 +33,52 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LAB0807.cpp",
+              "DocumentMoniker": "F:\\Mahanakorn_UNIVERSITY\\python \u0026 c\\lab\\MIIA0106-2025-B\\LAB08\\LAB0807\\LAB0807.cpp",
+              "RelativeDocumentMoniker": "..\\LAB0807\\LAB0807.cpp",
+              "ToolTip": "F:\\Mahanakorn_UNIVERSITY\\python \u0026 c\\lab\\MIIA0106-2025-B\\LAB08\\LAB0807\\LAB0807.cpp",
+              "RelativeToolTip": "..\\LAB0807\\LAB0807.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-05T13:59:29.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "LAB00806.cpp",
               "DocumentMoniker": "F:\\Mahanakorn_UNIVERSITY\\python \u0026 c\\lab\\MIIA0106-2025-B\\LAB08\\LAB00806\\LAB00806.cpp",
               "RelativeDocumentMoniker": "..\\LAB00806\\LAB00806.cpp",
               "ToolTip": "F:\\Mahanakorn_UNIVERSITY\\python \u0026 c\\lab\\MIIA0106-2025-B\\LAB08\\LAB00806\\LAB00806.cpp",
               "RelativeToolTip": "..\\LAB00806\\LAB00806.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-04T10:11:12.071Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T10:11:12.071Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "LAB0805.cpp",
               "DocumentMoniker": "F:\\Mahanakorn_UNIVERSITY\\python \u0026 c\\lab\\MIIA0106-2025-B\\LAB08\\LAB0805\\LAB0805.cpp",
               "RelativeDocumentMoniker": "..\\LAB0805\\LAB0805.cpp",
               "ToolTip": "F:\\Mahanakorn_UNIVERSITY\\python \u0026 c\\lab\\MIIA0106-2025-B\\LAB08\\LAB0805\\LAB0805.cpp",
               "RelativeToolTip": "..\\LAB0805\\LAB0805.cpp",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAwD8AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAwDcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-01-04T09:58:58.068Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "LAB0804.cpp",
               "DocumentMoniker": "F:\\Mahanakorn_UNIVERSITY\\python \u0026 c\\lab\\MIIA0106-2025-B\\LAB08\\LAB0804\\LAB0804.cpp",
               "RelativeDocumentMoniker": "..\\LAB0804\\LAB0804.cpp",
@@ -73,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "LAB0803.cpp",
               "DocumentMoniker": "F:\\Mahanakorn_UNIVERSITY\\python \u0026 c\\lab\\MIIA0106-2025-B\\LAB08\\LAB0803\\LAB0803.cpp",
               "RelativeDocumentMoniker": "..\\LAB0803\\LAB0803.cpp",
@@ -81,12 +99,11 @@
               "RelativeToolTip": "..\\LAB0803\\LAB0803.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-04T09:15:22.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T09:15:22.042Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "LAB0802.cpp",
               "DocumentMoniker": "F:\\Mahanakorn_UNIVERSITY\\python \u0026 c\\lab\\MIIA0106-2025-B\\LAB08\\LAB0801\\LAB0802\\LAB0802.cpp",
               "RelativeDocumentMoniker": "LAB0802\\LAB0802.cpp",
@@ -94,12 +111,11 @@
               "RelativeToolTip": "LAB0802\\LAB0802.cpp",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-04T08:59:51.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T08:59:51.069Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "LAB0801.cpp",
               "DocumentMoniker": "F:\\Mahanakorn_UNIVERSITY\\python \u0026 c\\lab\\MIIA0106-2025-B\\LAB08\\LAB0801\\LAB0801\\LAB0801.cpp",
               "RelativeDocumentMoniker": "LAB0801\\LAB0801.cpp",
@@ -107,8 +123,7 @@
               "RelativeToolTip": "LAB0801\\LAB0801.cpp",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-04T08:47:13.636Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-04T08:47:13.636Z"
             }
           ]
         }
